@@ -1,1 +1,2 @@
 # Computer-Vision-Basics
+"Computer Vision Basics" is a comprehensive repository housing programs related to image enhancement techniques, including smoothing, sharpening, thresholding, and histogram equalization. Additionally, the repository encompasses implementations of morphological operations, providing a diverse set of tools and resources for individuals delving into the fundamentals of computer vision.
